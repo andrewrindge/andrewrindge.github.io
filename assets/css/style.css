@@ -365,10 +365,10 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 40px;
   display: block;
   background: none;
   border-radius: 0;
@@ -388,11 +388,11 @@ section {
 }
 .skills .progress-bar-wrap {
   background: #dce8f8;
-  height: 10px;
+  height: 5px;
 }
 .skills .progress-bar {
   width: 1px;
-  height: 10px;
+  height: 5px;
   transition: 0.9s;
   background-color: #149ddd;
 }
